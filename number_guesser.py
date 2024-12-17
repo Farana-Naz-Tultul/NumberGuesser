@@ -49,3 +49,4 @@ while True:
         print("You got it below the number")
 
 print("You got it in " , guesses , " guesses!")
+print("Checking the repository")
