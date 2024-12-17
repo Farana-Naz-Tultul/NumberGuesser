@@ -52,3 +52,4 @@ print("You got it in " , guesses , " guesses!")
 print("Checking the repository")
 print("Checking the repository")
 #
+print("Checking the repository")
